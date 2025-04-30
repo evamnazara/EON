@@ -1,3 +1,8 @@
 Contido 2-eva -
+<<<<<<< HEAD
 OUTRO contido engadido
 ainda MAIS contido engadido
+=======
+Contido engadido
+user2 engade mais contido
+>>>>>>> 64b65e9ea6a88803ca99cbcfeb8345a47dcc48e0
